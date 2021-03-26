@@ -1,0 +1,6 @@
+Description: Pattern with packages for laurel_sprout configurations
+Name: jolla-configuration-laurel_sprout
+Requires:
+- patterns-sailfish-device-configuration-laurel_sprout
+
+Summary: Jolla Configuration laurel_sprout
