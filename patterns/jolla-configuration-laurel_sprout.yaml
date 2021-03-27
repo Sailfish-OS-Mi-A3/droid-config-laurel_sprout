@@ -2,5 +2,6 @@ Description: Pattern with packages for laurel_sprout configurations
 Name: jolla-configuration-laurel_sprout
 Requires:
 - patterns-sailfish-device-configuration-laurel_sprout
+- droid-hal-laurel_sprout-detritus
 
 Summary: Jolla Configuration laurel_sprout
